@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact & Booking | Coast Photographic Services</title>
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+</head>
+<body>
+
+    <header>
+        <nav class="navbar">
+            <div class="logo">Coast Photographic Services</div>
+
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="portfolio.html">Portfolio</a></li>
+                <li><a href="contact.html" class="active">Contact</a></li>
+            </ul>
+
+            <div class="menu-btn">
+                <i class="fas fa-bars"></i>
+            </div>
+        </nav>
+    </header>
+
+    <section class="page-banner">
+        <h1>Connect With Us</h1>
+    </section>
+
+    <main>
+        <section class="contact-section split-layout">
+            
+            <div class="contact-info-block">
+                <h2 class="section-title" style="text-align: left; margin-bottom: 25px;">Get In Touch</h2>
+                <p class="info-intro-text">Have a project or corporate event coming up? Let’s talk about how we can elevate your brand or function with premium visual assets.</p>
+
+                <div class="info-details-list">
+                    <div class="info-item">
+                        <i class="fas fa-map-marker-alt"></i>
+                        <div>
+                            <h4>Our Studio Location</h4>
+                            <p>Mombasa, Kenya (Serving the Coastal Region & Nationwide)</p>
+                        </div>
+                    </div>
+
+                    <div class="info-item">
+                        <i class="fas fa-envelope"></i>
+                        <div>
+                            <h4>Email Enquiries</h4>
+                            <p>coast.photographic.cs69@gmail.com</p>
+                        </div>
+                    </div>
+
+                    <div class="info-item">
+                        <i class="fas fa-phone-alt"></i>
+                        <div>
+                            <h4>Call or WhatsApp</h4>
+                            <p>0724 500 052 / 0756 500 052</p>
+                        </div>
+                    </div>
+
+                    <div class="info-item">
+                        <i class="fas fa-clock"></i>
+                        <div>
+                            <h4>Studio Hours</h4>
+                            <p>Mon - Sat: 8:00 AM - 6:00 PM (Available 24/7 for Booked Events)</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="contact-form-block" id="booking-form">
+                <div class="form-card-header">
+                    <h3>Secure Your Session</h3>
+                    <p>Fill out the fields below to book a shoot date or request a quotation.</p>
+                </div>
+
+                <form class="booking-form unified-form" action="contact.php" method="POST">
+                    <div class="form-row">
+                        <input type="text" name="name" placeholder="Your Full Name / Company Name" required>
+                    </div>
+
+                    <div class="form-group-split">
+                        <input type="email" name="email" placeholder="Email Address" required>
+                        <input type="tel" name="phone" placeholder="Phone Number" required>
+                    </div>
+
+                    <div class="form-group-split">
+                        <select name="service-type" required>
+                            <option value="" disabled selected>Select Service Required</option>
+                            <option value="corporate-conference">Corporate Conferences & Events</option>
+                            <option value="graduation-gala">Graduation & End-Year Events</option>
+                            <option value="commercial-pack">Commercial & Product Pack Shoots</option>
+                            <option value="personal-function">Personal Functions & Weddings</option>
+                            <option value="general-inquiry">General Inquiry / Consultation</option>
+                        </select>
+
+                        <input type="date" name="event-date" title="Proposed Event Date">
+                    </div>
+
+                    <div class="form-row">
+                        <textarea name="message" rows="6" placeholder="Tell us more about your timeline, location, branding needs, or general specifications..." required></textarea>
+                    </div>
+
+                    <div class="form-row" style="margin-top: 10px;">
+                        <button type="submit" class="btn gold-btn" style="width: 100%; text-align: center; cursor: pointer;">Send Message / Request Booking</button>
+                    </div>
+                </form>
+            </div>
+
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <h3>Coast Photographic Services</h3>
+            <p>Professional Photography & Videography Services based at the coast, capturing raw and timeless emotions across premium events.</p>
+
+            <div class="socials">
+                <a href="https://facebook.com" target="_blank" rel="noopener" aria-label="Facebook"><i class="fab fa-facebook"></i></a>
+                <a href="https://instagram.com" target="_blank" rel="noopener" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+                <a href="https://twitter.com" target="_blank" rel="noopener" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+                <a href="https://youtube.com" target="_blank" rel="noopener" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
+            </div>
+
+            <p class="copyright">&copy; 2026 Coast Photographic Services. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
