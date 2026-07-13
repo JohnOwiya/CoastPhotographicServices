@@ -1,0 +1,1056 @@
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding1.jpg" alt="Coast Photographic Services - Wedding Moment 1" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 1</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding2.jpg" alt="Coast Photographic Services - Wedding Moment 2" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 2</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding3.jpg" alt="Coast Photographic Services - Wedding Moment 3" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 3</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding4.jpg" alt="Coast Photographic Services - Wedding Moment 4" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 4</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding5.jpg" alt="Coast Photographic Services - Wedding Moment 5" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 5</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding6.jpg" alt="Coast Photographic Services - Wedding Moment 6" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 6</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding7.jpg" alt="Coast Photographic Services - Wedding Moment 7" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 7</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding8.jpg" alt="Coast Photographic Services - Wedding Moment 8" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 8</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding9.jpg" alt="Coast Photographic Services - Wedding Moment 9" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 9</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding10.jpg" alt="Coast Photographic Services - Wedding Moment 10" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 10</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding11.jpg" alt="Coast Photographic Services - Wedding Moment 11" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 11</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding12.jpg" alt="Coast Photographic Services - Wedding Moment 12" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 12</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding13.jpg" alt="Coast Photographic Services - Wedding Moment 13" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 13</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding14.jpg" alt="Coast Photographic Services - Wedding Moment 14" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 14</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding15.jpg" alt="Coast Photographic Services - Wedding Moment 15" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 15</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding16.jpg" alt="Coast Photographic Services - Wedding Moment 16" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 16</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding17.jpg" alt="Coast Photographic Services - Wedding Moment 17" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 17</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding18.jpg" alt="Coast Photographic Services - Wedding Moment 18" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 18</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding19.jpg" alt="Coast Photographic Services - Wedding Moment 19" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 19</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding20.jpg" alt="Coast Photographic Services - Wedding Moment 20" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 20</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding21.jpg" alt="Coast Photographic Services - Wedding Moment 21" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 21</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding22.jpg" alt="Coast Photographic Services - Wedding Moment 22" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 22</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding23.jpg" alt="Coast Photographic Services - Wedding Moment 23" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 23</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding24.jpg" alt="Coast Photographic Services - Wedding Moment 24" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 24</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding25.jpg" alt="Coast Photographic Services - Wedding Moment 25" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 25</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding26.jpg" alt="Coast Photographic Services - Wedding Moment 26" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 26</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding27.jpg" alt="Coast Photographic Services - Wedding Moment 27" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 27</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding28.jpg" alt="Coast Photographic Services - Wedding Moment 28" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 28</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding29.jpg" alt="Coast Photographic Services - Wedding Moment 29" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 29</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding30.jpg" alt="Coast Photographic Services - Wedding Moment 30" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 30</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding31.jpg" alt="Coast Photographic Services - Wedding Moment 31" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 31</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding32.jpg" alt="Coast Photographic Services - Wedding Moment 32" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 32</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding33.jpg" alt="Coast Photographic Services - Wedding Moment 33" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 33</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding34.jpg" alt="Coast Photographic Services - Wedding Moment 34" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 34</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding35.jpg" alt="Coast Photographic Services - Wedding Moment 35" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 35</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding36.jpg" alt="Coast Photographic Services - Wedding Moment 36" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 36</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding37.jpg" alt="Coast Photographic Services - Wedding Moment 37" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 37</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding38.jpg" alt="Coast Photographic Services - Wedding Moment 38" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 38</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding39.jpg" alt="Coast Photographic Services - Wedding Moment 39" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 39</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding40.jpg" alt="Coast Photographic Services - Wedding Moment 40" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 40</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding41.jpg" alt="Coast Photographic Services - Wedding Moment 41" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 41</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding42.jpg" alt="Coast Photographic Services - Wedding Moment 42" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 42</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding43.jpg" alt="Coast Photographic Services - Wedding Moment 43" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 43</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding44.jpg" alt="Coast Photographic Services - Wedding Moment 44" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 44</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding45.jpg" alt="Coast Photographic Services - Wedding Moment 45" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 45</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding46.jpg" alt="Coast Photographic Services - Wedding Moment 46" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 46</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding47.jpg" alt="Coast Photographic Services - Wedding Moment 47" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 47</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding48.jpg" alt="Coast Photographic Services - Wedding Moment 48" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 48</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding49.jpg" alt="Coast Photographic Services - Wedding Moment 49" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 49</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding50.jpg" alt="Coast Photographic Services - Wedding Moment 50" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 50</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding51.jpg" alt="Coast Photographic Services - Wedding Moment 51" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 51</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding52.jpg" alt="Coast Photographic Services - Wedding Moment 52" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 52</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding53.jpg" alt="Coast Photographic Services - Wedding Moment 53" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 53</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding54.jpg" alt="Coast Photographic Services - Wedding Moment 54" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 54</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding55.jpg" alt="Coast Photographic Services - Wedding Moment 55" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 55</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding56.jpg" alt="Coast Photographic Services - Wedding Moment 56" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 56</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding57.jpg" alt="Coast Photographic Services - Wedding Moment 57" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 57</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding58.jpg" alt="Coast Photographic Services - Wedding Moment 58" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 58</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding59.jpg" alt="Coast Photographic Services - Wedding Moment 59" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 59</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding60.jpg" alt="Coast Photographic Services - Wedding Moment 60" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 60</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding61.jpg" alt="Coast Photographic Services - Wedding Moment 61" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 61</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding62.jpg" alt="Coast Photographic Services - Wedding Moment 62" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 62</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding63.jpg" alt="Coast Photographic Services - Wedding Moment 63" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 63</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding64.jpg" alt="Coast Photographic Services - Wedding Moment 64" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 64</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding65.jpg" alt="Coast Photographic Services - Wedding Moment 65" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 65</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding66.jpg" alt="Coast Photographic Services - Wedding Moment 66" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 66</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding67.jpg" alt="Coast Photographic Services - Wedding Moment 67" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 67</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding68.jpg" alt="Coast Photographic Services - Wedding Moment 68" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 68</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding69.jpg" alt="Coast Photographic Services - Wedding Moment 69" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 69</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding70.jpg" alt="Coast Photographic Services - Wedding Moment 70" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 70</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding71.jpg" alt="Coast Photographic Services - Wedding Moment 71" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 71</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding72.jpg" alt="Coast Photographic Services - Wedding Moment 72" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 72</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding73.jpg" alt="Coast Photographic Services - Wedding Moment 73" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 73</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding74.jpg" alt="Coast Photographic Services - Wedding Moment 74" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 74</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding75.jpg" alt="Coast Photographic Services - Wedding Moment 75" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 75</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding76.jpg" alt="Coast Photographic Services - Wedding Moment 76" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 76</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding77.jpg" alt="Coast Photographic Services - Wedding Moment 77" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 77</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding78.jpg" alt="Coast Photographic Services - Wedding Moment 78" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 78</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding79.jpg" alt="Coast Photographic Services - Wedding Moment 79" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 79</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding80.jpg" alt="Coast Photographic Services - Wedding Moment 80" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 80</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding81.jpg" alt="Coast Photographic Services - Wedding Moment 81" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 81</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding82.jpg" alt="Coast Photographic Services - Wedding Moment 82" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 82</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding83.jpg" alt="Coast Photographic Services - Wedding Moment 83" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 83</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding84.jpg" alt="Coast Photographic Services - Wedding Moment 84" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 84</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding85.jpg" alt="Coast Photographic Services - Wedding Moment 85" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 85</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding86.jpg" alt="Coast Photographic Services - Wedding Moment 86" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 86</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding87.jpg" alt="Coast Photographic Services - Wedding Moment 87" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 87</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding88.jpg" alt="Coast Photographic Services - Wedding Moment 88" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 88</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding89.jpg" alt="Coast Photographic Services - Wedding Moment 89" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 89</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding90.jpg" alt="Coast Photographic Services - Wedding Moment 90" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 90</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding91.jpg" alt="Coast Photographic Services - Wedding Moment 91" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 91</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding92.jpg" alt="Coast Photographic Services - Wedding Moment 92" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 92</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding93.jpg" alt="Coast Photographic Services - Wedding Moment 93" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 93</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding94.jpg" alt="Coast Photographic Services - Wedding Moment 94" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 94</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding95.jpg" alt="Coast Photographic Services - Wedding Moment 95" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 95</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item reveal" data-category="wedding">
+                <div class="portfolio-media-wrapper">
+                    <img src="images/wedding96.jpg" alt="Coast Photographic Services - Wedding Moment 96" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <h3>Wedding Moments 96</h3>
+                            <p>Coast Photographic Services</p>
+                        </div>
+                    </div>
+                </div>
+            </div>

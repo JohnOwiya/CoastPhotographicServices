@@ -1,0 +1,672 @@
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding1.jpg" alt="Coast Photographic Wedding Capture 1">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 1</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding2.jpg" alt="Coast Photographic Wedding Capture 2">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 2</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding3.jpg" alt="Coast Photographic Wedding Capture 3">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 3</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding4.jpg" alt="Coast Photographic Wedding Capture 4">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 4</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding5.jpg" alt="Coast Photographic Wedding Capture 5">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 5</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding6.jpg" alt="Coast Photographic Wedding Capture 6">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 6</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding7.jpg" alt="Coast Photographic Wedding Capture 7">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 7</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding8.jpg" alt="Coast Photographic Wedding Capture 8">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 8</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding9.jpg" alt="Coast Photographic Wedding Capture 9">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 9</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding10.jpg" alt="Coast Photographic Wedding Capture 10">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 10</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding11.jpg" alt="Coast Photographic Wedding Capture 11">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 11</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding12.jpg" alt="Coast Photographic Wedding Capture 12">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 12</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding13.jpg" alt="Coast Photographic Wedding Capture 13">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 13</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding14.jpg" alt="Coast Photographic Wedding Capture 14">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 14</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding15.jpg" alt="Coast Photographic Wedding Capture 15">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 15</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding16.jpg" alt="Coast Photographic Wedding Capture 16">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 16</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding17.jpg" alt="Coast Photographic Wedding Capture 17">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 17</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding18.jpg" alt="Coast Photographic Wedding Capture 18">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 18</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding19.jpg" alt="Coast Photographic Wedding Capture 19">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 19</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding20.jpg" alt="Coast Photographic Wedding Capture 20">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 20</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding21.jpg" alt="Coast Photographic Wedding Capture 21">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 21</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding22.jpg" alt="Coast Photographic Wedding Capture 22">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 22</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding23.jpg" alt="Coast Photographic Wedding Capture 23">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 23</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding24.jpg" alt="Coast Photographic Wedding Capture 24">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 24</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding25.jpg" alt="Coast Photographic Wedding Capture 25">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 25</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding26.jpg" alt="Coast Photographic Wedding Capture 26">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 26</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding27.jpg" alt="Coast Photographic Wedding Capture 27">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 27</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding28.jpg" alt="Coast Photographic Wedding Capture 28">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 28</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding29.jpg" alt="Coast Photographic Wedding Capture 29">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 29</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding30.jpg" alt="Coast Photographic Wedding Capture 30">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 30</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding31.jpg" alt="Coast Photographic Wedding Capture 31">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 31</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding32.jpg" alt="Coast Photographic Wedding Capture 32">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 32</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding33.jpg" alt="Coast Photographic Wedding Capture 33">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 33</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding34.jpg" alt="Coast Photographic Wedding Capture 34">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 34</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding35.jpg" alt="Coast Photographic Wedding Capture 35">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 35</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding36.jpg" alt="Coast Photographic Wedding Capture 36">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 36</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding37.jpg" alt="Coast Photographic Wedding Capture 37">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 37</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding38.jpg" alt="Coast Photographic Wedding Capture 38">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 38</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding39.jpg" alt="Coast Photographic Wedding Capture 39">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 39</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding40.jpg" alt="Coast Photographic Wedding Capture 40">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 40</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding41.jpg" alt="Coast Photographic Wedding Capture 41">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 41</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding42.jpg" alt="Coast Photographic Wedding Capture 42">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 42</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding43.jpg" alt="Coast Photographic Wedding Capture 43">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 43</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding44.jpg" alt="Coast Photographic Wedding Capture 44">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 44</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding45.jpg" alt="Coast Photographic Wedding Capture 45">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 45</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding46.jpg" alt="Coast Photographic Wedding Capture 46">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 46</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding47.jpg" alt="Coast Photographic Wedding Capture 47">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 47</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding48.jpg" alt="Coast Photographic Wedding Capture 48">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 48</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding49.jpg" alt="Coast Photographic Wedding Capture 49">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 49</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding50.jpg" alt="Coast Photographic Wedding Capture 50">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 50</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding51.jpg" alt="Coast Photographic Wedding Capture 51">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 51</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding52.jpg" alt="Coast Photographic Wedding Capture 52">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 52</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding53.jpg" alt="Coast Photographic Wedding Capture 53">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 53</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding54.jpg" alt="Coast Photographic Wedding Capture 54">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 54</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding55.jpg" alt="Coast Photographic Wedding Capture 55">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 55</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding56.jpg" alt="Coast Photographic Wedding Capture 56">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 56</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding57.jpg" alt="Coast Photographic Wedding Capture 57">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 57</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding58.jpg" alt="Coast Photographic Wedding Capture 58">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 58</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding59.jpg" alt="Coast Photographic Wedding Capture 59">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 59</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="images/wedding60.jpg" alt="Coast Photographic Wedding Capture 60">
+                    <div class="portfolio-hover">
+                        <h3>Wedding Capture 60</h3>
+                        <p>Recent Wedding Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding61.jpg" alt="Coast Photographic Conference Capture 61">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 61</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding62.jpg" alt="Coast Photographic Conference Capture 62">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 62</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding63.jpg" alt="Coast Photographic Conference Capture 63">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 63</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding64.jpg" alt="Coast Photographic Conference Capture 64">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 64</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding65.jpg" alt="Coast Photographic Conference Capture 65">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 65</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding66.jpg" alt="Coast Photographic Conference Capture 66">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 66</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding67.jpg" alt="Coast Photographic Conference Capture 67">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 67</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding68.jpg" alt="Coast Photographic Conference Capture 68">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 68</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding69.jpg" alt="Coast Photographic Conference Capture 69">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 69</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding70.jpg" alt="Coast Photographic Conference Capture 70">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 70</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding71.jpg" alt="Coast Photographic Conference Capture 71">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 71</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding72.jpg" alt="Coast Photographic Conference Capture 72">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 72</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding73.jpg" alt="Coast Photographic Conference Capture 73">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 73</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding74.jpg" alt="Coast Photographic Conference Capture 74">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 74</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding75.jpg" alt="Coast Photographic Conference Capture 75">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 75</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding76.jpg" alt="Coast Photographic Conference Capture 76">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 76</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding77.jpg" alt="Coast Photographic Conference Capture 77">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 77</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding78.jpg" alt="Coast Photographic Conference Capture 78">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 78</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding79.jpg" alt="Coast Photographic Conference Capture 79">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 79</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding80.jpg" alt="Coast Photographic Conference Capture 80">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 80</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding81.jpg" alt="Coast Photographic Conference Capture 81">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 81</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding82.jpg" alt="Coast Photographic Conference Capture 82">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 82</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding83.jpg" alt="Coast Photographic Conference Capture 83">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 83</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding84.jpg" alt="Coast Photographic Conference Capture 84">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 84</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding85.jpg" alt="Coast Photographic Conference Capture 85">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 85</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding86.jpg" alt="Coast Photographic Conference Capture 86">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 86</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding87.jpg" alt="Coast Photographic Conference Capture 87">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 87</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding88.jpg" alt="Coast Photographic Conference Capture 88">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 88</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding89.jpg" alt="Coast Photographic Conference Capture 89">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 89</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding90.jpg" alt="Coast Photographic Conference Capture 90">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 90</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding91.jpg" alt="Coast Photographic Conference Capture 91">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 91</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding92.jpg" alt="Coast Photographic Conference Capture 92">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 92</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding93.jpg" alt="Coast Photographic Conference Capture 93">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 93</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding94.jpg" alt="Coast Photographic Conference Capture 94">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 94</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding95.jpg" alt="Coast Photographic Conference Capture 95">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 95</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="conference">
+                    <img src="images/wedding96.jpg" alt="Coast Photographic Conference Capture 96">
+                    <div class="portfolio-hover">
+                        <h3>Conference Event 96</h3>
+                        <p>Conference Production</p>
+                    </div>
+                </div>

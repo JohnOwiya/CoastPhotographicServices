@@ -1,0 +1,1560 @@
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0433.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0455.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0458.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0460.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0462.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0465.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0514.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0516.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0519.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0520.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0522.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0524.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0538.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0581.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0585.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0588.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0590.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0592.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0593.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0735.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0738.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0739.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0740.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0893.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0894.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0909.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0924.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0949.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0975.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0989.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0999.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A1000.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A1008.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A1139.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A1140.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A1142.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9205.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9212.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9216.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9223.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9225.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9226.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9248.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9257.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9258.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9260.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9271.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9291.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9301.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9306.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9307.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9348.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9349.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9408.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9410.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9411.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9415.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9467.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9468.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9474.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9477.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9511.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9520.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9525.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9528.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9536.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9554.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9558.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9586.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9587.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9588.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9592.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9603.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9605.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9606.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9608.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9611.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9612.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9699.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9702.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/DSC_0023.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/DSC_0088.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/DSC_0089.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/DSC_0090.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/DSC_0098.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/DSC_0101.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/DSC_0104.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/DSC_0105.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/DSC_0141.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/DSC_0153.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/conf1.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/conf2.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/conf3.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/conf4.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/conf5.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/conf6.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/grad1.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/grad2.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/grad3.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/grad4.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/grad5.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/hero-bg.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/photo1.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/photo2.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/photo3.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/photo4.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/photo5.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/photo6.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/safari1.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/safari3.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/safari4.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/safari5.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/safari6.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/safari7.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/safari8.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/services-bg.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/sports1.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/sports2.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/wedding1.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/wedding2.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/wedding3.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/wedding4.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/wedding8.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/wedding9.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    
+    <div class="portfolio-item filter-weddings">
+        <img src="images/wedding11.jpg" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0433.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0455.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0458.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0460.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0462.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0465.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0514.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0516.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0519.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0520.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0522.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0524.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0538.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0581.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0585.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0588.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0590.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0592.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0593.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0735.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0738.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0739.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0740.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0893.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0894.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0909.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0924.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0949.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0975.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0989.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A0999.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A1000.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A1008.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A1139.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A1140.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A1142.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9205.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9212.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9216.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9223.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9225.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9226.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9248.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9257.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9258.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9260.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9271.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9291.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9301.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9306.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9307.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9348.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9349.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9408.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9410.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9411.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9415.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9467.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9468.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9474.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9477.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9511.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9520.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9525.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9528.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9536.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9554.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9558.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9586.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9587.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9588.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9592.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9603.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9605.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9606.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9608.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9611.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9612.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9699.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+
+    <div class="portfolio-item filter-weddings">
+        <img src="images/3J0A9702.JPG" alt="Coast Photographic Wedding Masterpiece">
+        <div class="item-overlay">
+            <h3>Wedding Capture</h3>
+        </div>
+    </div>
+

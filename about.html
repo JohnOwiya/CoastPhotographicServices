@@ -16,7 +16,7 @@
 <body>
 
     <header>
-        <nav class="navbar">
+        <nav class="navbar" id="navbar">
             <div class="logo">Coast Photographic Services</div>
 
             <ul class="nav-links">
@@ -27,7 +27,7 @@
                 <li><a href="contact.html">Contact</a></li>
             </ul>
 
-            <div class="menu-btn">
+            <div class="menu-btn" aria-label="Toggle navigation" role="button">
                 <i class="fas fa-bars"></i>
             </div>
         </nav>
@@ -40,7 +40,11 @@
     <main>
         <section class="about-section">
             <div class="about-text-content">
-                <h2 class="section-title" style="text-align: left; margin-bottom: 30px;">Who We Are</h2>
+                <h2 class="section-title about-heading">
+
+                Who We Are
+            
+            </h2>
                 <p>Coast Photographic Services is a reputable photography and video production company dedicated to the creation of compelling visual content for corporate, commercial, and entertainment endeavors.</p>
                 
                 <p style="margin-top: 15px;">We are fully equipped to handle your unique needs professionally, with a particular attention to detail and uncompromising quality. We pride ourselves on maintaining a fresh, innovative approach, resulting in delivering a world-class experience with every single project we execute.</p>
@@ -74,21 +78,54 @@
         </section>
     </main>
 
-    <footer>
-        <div class="footer-content">
+    <footer class="site-footer">
+    <div class="footer-container">
+
+        <div class="footer-brand">
             <h3>Coast Photographic Services</h3>
-            <p>Professional Photography & Videography Services based at the coast, capturing raw and timeless emotions across premium events.</p>
 
-            <div class="socials">
-                <a href="https://facebook.com" target="_blank" rel="noopener" aria-label="Facebook"><i class="fab fa-facebook"></i></a>
-                <a href="https://instagram.com" target="_blank" rel="noopener" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
-                <a href="https://twitter.com" target="_blank" rel="noopener" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
-                <a href="https://youtube.com" target="_blank" rel="noopener" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
+            <p>
+                Professional photography & videography based at the Kenyan coast 
+                capturing raw, timeless emotion across premium events since 2017.
+            </p>
+
+            <div class="footer-socials">
+                <a href="https://facebook.com" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
+                <a href="https://twitter.com" target="_blank"><i class="fab fa-x-twitter"></i></a>
+                <a href="https://youtube.com" target="_blank"><i class="fab fa-youtube"></i></a>
             </div>
-
-            <p class="copyright">&copy; 2026 Coast Photographic Services. All Rights Reserved.</p>
         </div>
-    </footer>
 
+        <div class="footer-links">
+            <h4>Quick Links</h4>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="portfolio.html">Portfolio</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </div>
+
+        <div class="footer-contact">
+            <h4>Get In Touch</h4>
+
+            <ul>
+                <li><i class="fas fa-map-marker-alt"></i> Mombasa, Kenya</li>
+                <li><i class="fas fa-phone"></i> <a href="tel:+254 724 500 052">+254 756 500 052</a></li>
+                <li><i class="fas fa-envelope"></i> <a href="mailto:coast.photographic.cs69@gmail.com">coast.photographic.cs69@gmail.com</a></li>
+            </ul>
+        </div>
+
+    </div>
+
+    <div class="footer-bottom">
+        <p>&copy; 2026 Coast Photographic Services. All Rights Reserved.</p>
+        <p>Crafted with precision & passion.</p>
+    </div>
+</footer>
+
+    <script src="js/script.js"></script>
 </body>
 </html>

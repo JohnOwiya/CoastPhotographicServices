@@ -1,80 +1,72 @@
 <?php
+// Safeguard: Block direct URL access; only allow POST submissions
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    // 1. Sanitize incoming form inputs
-    $name    = htmlspecialchars(strip_tags(trim($_POST['name'])));
-    $email   = filter_var(trim($_POST['email']), FILTER_SANITIZE_EMAIL);
-    $phone   = htmlspecialchars(strip_tags(trim($_POST['phone'])));
-    $service = htmlspecialchars(strip_tags(trim($_POST['service-type'])));
-    $date    = htmlspecialchars(strip_tags(trim($_POST['event-date'])));
-    $message = htmlspecialchars(strip_tags(trim($_POST['message'])));
+    
+    // 1. Sanitize and collect form inputs to prevent injection vulnerabilities
+    $name    = filter_var(trim($_POST["name"]), FILTER_SANITIZE_FULL_SPECIAL_CHARS);
+    $email   = filter_var(trim($_POST["email"]), FILTER_SANITIZE_EMAIL);
+    $phone   = filter_var(trim($_POST["phone"]), FILTER_SANITIZE_FULL_SPECIAL_CHARS);
+    $service = filter_var(trim($_POST["service-type"]), FILTER_SANITIZE_FULL_SPECIAL_CHARS);
+    $date    = filter_var(trim($_POST["event-date"]), FILTER_SANITIZE_FULL_SPECIAL_CHARS);
+    $message = filter_var(trim($_POST["message"]), FILTER_SANITIZE_FULL_SPECIAL_CHARS);
 
-    // Validate core fields
-    if (empty($name) || empty($email) || empty($phone) || empty($message)) {
-        echo "Please fill in all required fields.";
+    // Validate critical required fields
+    if (empty($name) || empty($email) || empty($message)) {
+        http_response_code(400);
+        echo "Please complete all required fields.";
         exit;
     }
 
-    // 2. Define Recipient Configurations
-    $director_email = "legitjunior9@gmail.com"; // Your official email
+    // 2. Set Destination Addresses
+    $photographer_email = "coast.photographic.cs69@gmail.com";
     
-    // 3. EMAIL TO DIRECTOR
-    $director_subject = "New Booking/Inquiry from " . $name;
-    $director_body    = "
-    <html>
-    <head>
-        <title>New Production Inquiry</title>
-    </head>
-    <body style='font-family: Arial, sans-serif; line-height: 1.6; color: #333;'>
-        <h2 style='color: #d4af37;'>New Booking Request</h2>
-        <p><strong>Client Name:</strong> {$name}</p>
-        <p><strong>Email:</strong> {$email}</p>
-        <p><strong>Phone:</strong> {$phone}</p>
-        <p><strong>Requested Service:</strong> {$service}</p>
-        <p><strong>Target Date:</strong> " . (!empty($date) ? $date : 'Not specified') . "</p>
-        <p><strong>Project Overview:</strong><br>" . nl2br($message) . "</p>
-    </body>
-    </html>
-    ";
+    // 3. EMAIL 1: Format the Alert to the Photographer
+    $photo_subject = "New Studio Booking Request from: $name";
+    
+    $photo_body = "<h3>You have received a new booking enquiry:</h3>";
+    $photo_body .= "<p><strong>Client Name:</strong> $name</p>";
+    $photo_body .= "<p><strong>Email Address:</strong> $email</p>";
+    $photo_body .= "<p><strong>Phone Number:</strong> $phone</p>";
+    $photo_body .= "<p><strong>Service Requested:</strong> $service</p>";
+    $photo_body .= "<p><strong>Proposed Event Date:</strong> " . (!empty($date) ? $date : "Not Specified") . "</p>";
+    $photo_body .= "<p><strong>Project Details Brief:</strong><br>" . nl2br($message) . "</p>";
 
-    // 4. CONFIRMATION EMAIL TO CLIENT
-    $client_subject = "We've Received Your Booking Request - Coast Photographic Services";
-    $client_body    = "
-    <html>
-    <body style='font-family: Arial, sans-serif; line-height: 1.6; color: #333;'>
-        <div style='max-width: 600px; margin: 0 auto; border-top: 4px solid #d4af37; padding-top: 20px;'>
-            <h2 style='color: #111;'>Hello {$name},</h2>
-            <p>Thank you for reaching out to <strong>Coast Photographic Services</strong>.</p>
-            <p>We have received your request for <strong>{$service}</strong>. Our production team is currently reviewing your project details and proposed timeline. Director Joshua Ochiewo or a client manager will get back to you within 24 business hours to finalize your consultation.</p>
-            <br>
-            <p>Best regards,</p>
-            <p><strong>Production Team</strong><br>Coast Photographic Services</p>
-        </div>
-    </body>
-    </html>
-    ";
+    // Headers for sending HTML emails to the photographer
+    $photo_headers = "MIME-Version: 1.0" . "\r\n";
+    $photo_headers .= "Content-Type: text/html; charset=UTF-8" . "\r\n";
+    $photo_headers .= "From: Coast Production Website <noreply@coastphotographic.com>" . "\r\n";
+    $photo_headers .= "Reply-To: $email" . "\r\n"; // Clicking reply directly emails the client
 
-    // Set common HTML headers
-    $headers  = "MIME-Version: 1.0" . "\r\n";
-    $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-    $headers .= "From: webmaster@coastphotographicservices.com" . "\r\n"; // Must match your domain
+    // 4. EMAIL 2: Format the Auto-Response Receipt to the Client
+    $client_subject = "We've Received Your Session Request! - Coast Photographic Services";
+    
+    $client_body = "<div style='font-family: Arial, sans-serif; padding: 20px; background-color: #121212; color: #ffffff; border-radius: 6px;'>";
+    $client_body .= "<h2 style='color: #d4af37;'>Hello $name,</h2>";
+    $client_body .= "<p>Thank you for reaching out to Coast Photographic Services. We have successfully received your production request.</p>";
+    $client_body .= "<p>Our creative team is currently reviewing your timeline and specifications. We will get back to you with an official confirmation or quotation within the next 24 hours.</p>";
+    $client_body .= "<br>";
+    $client_body .= "<hr style='border: 0; border-top: 1px solid #333;'>";
+    $client_body .= "<p style='font-size: 0.85rem; color: #a0a0a0;'>This is an automated delivery receipt for your records. Please do not reply directly to this message.</p>";
+    $client_body .= "</div>";
 
-    // Send Emails via server mail system
-    $mail_to_director = mail($director_email, $director_subject, $director_body, $headers);
-    $mail_to_client   = mail($email, $client_subject, $client_body, $headers);
+    // Headers for sending HTML email to the client
+    $client_headers = "MIME-Version: 1.0" . "\r\n";
+    $client_headers .= "Content-Type: text/html; charset=UTF-8" . "\r\n";
+    $client_headers .= "From: Coast Photographic Services <$photographer_email>" . "\r\n";
 
-    // 5. REDIRECT OR THANK YOU STATUS
-    if ($mail_to_director && $mail_to_client) {
-        // Smoothly send them to a success state or back to contact page with success alert
-        echo "<script>
-                alert('Thank you! Your message has been sent. A confirmation email has been sent to you.');
-                window.location.href = 'contact.html';
-              </script>";
+    // 5. Execution Matrix (Fire both emails)
+    $send_to_photographer = mail($photographer_email, $photo_subject, $photo_body, $photo_headers);
+    $send_to_client       = mail($email, $client_subject, $client_body, $client_headers);
+
+    if ($send_to_photographer && $send_to_client) {
+        http_response_code(200);
+        echo "Success";
     } else {
-        echo "System error: Mail delivery failed. Please try again or contact us directly via WhatsApp.";
+        http_response_code(500);
+        echo "Mailing engine configuration error. Please try again later.";
     }
 } else {
-    // If someone tries to access contact.php directly, kick them back to the form page
-    header("Location: contact.html");
-    exit;
+    http_response_code(403);
+    echo "Direct access restricted.";
 }
 ?>

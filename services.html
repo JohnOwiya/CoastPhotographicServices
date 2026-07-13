@@ -12,8 +12,8 @@
 </head>
 <body>
 
-    <header>
-        <nav class="navbar">
+   <header>
+        <nav class="navbar" id="navbar">
             <div class="logo">Coast Photographic Services</div>
             <ul class="nav-links">
                 <li><a href="index.html">Home</a></li>
@@ -22,7 +22,9 @@
                 <li><a href="portfolio.html">Portfolio</a></li>
                 <li><a href="contact.html">Contact</a></li>
             </ul>
-            <div class="menu-btn"><i class="fas fa-bars"></i></div>
+            <div class="menu-btn" aria-label="Toggle navigation" role="button">
+                <i class="fas fa-bars"></i>
+            </div>
         </nav>
     </header>
 
@@ -34,53 +36,134 @@
             </div>
         </section>
 
-        <section class="detailed-services">
-            <div class="package-grid">
-                <div class="package-card">
-                    <div class="package-badge">Popular</div>
-                    <h3>Luxury Wedding Package</h3>
-                    <p class="price">From KES 85,000</p>
-                    <ul>
-                        <li><i class="fas fa-check"></i> Full-day coverage (Preparation to Reception)</li>
-                        <li><i class="fas fa-check"></i> 2 Professional Senior Photographers</li>
-                        <li><i class="fas fa-check"></i> 300+ High-resolution edited digital frames</li>
-                        <li><i class="fas fa-check"></i> Premium leather-bound matte photo album</li>
-                    </ul>
-                    <a href="contact.html#booking-form" class="btn gold-btn">Check Availability</a>
-                </div>
+        <section class="services-pricing reveal">
+    <div class="container">
 
-                <div class="package-card">
-                    <h3>Cinematic Videography</h3>
-                    <p class="price">From KES 120,000</p>
-                    <ul>
-                        <li><i class="fas fa-check"></i> 4K UHD Cinematic Highlight Reel (3-5 mins)</li>
-                        <li><i class="fas fa-check"></i> Full length documentary event edit</li>
-                        <li><i class="fas fa-check"></i> Crystal-clear multi-mic audio recording</li>
-                        <li><i class="fas fa-check"></i> Drone/Aerial cinematography shots</li>
-                    </ul>
-                    <a href="contact.html#booking-form" class="btn gold-btn">Book Video Team</a>
-                </div>
+      <h2 class="section-title">
+    Investment & Packages
+</h2>
+        <div class="pricing-toggle-container">
+            <button class="pricing-toggle-btn active" data-tier="standard">Standard Sessions</button>
+            <button class="pricing-toggle-btn" data-tier="premium">Premium Production</button>
+        </div>
 
-                <div class="package-card">
-                    <h3>Events & Corporate Galas</h3>
-                    <p class="price">Custom Quote</p>
-                    <ul>
-                        <li><i class="fas fa-check"></i> Step-and-repeat / Red carpet photography</li>
-                        <li><i class="fas fa-check"></i> Rapid same-day media delivery for PR</li>
-                        <li><i class="fas fa-check"></i> Corporate portraits & group team pictures</li>
-                        <li><i class="fas fa-check"></i> Full usage rights for commercial marketing</li>
-                    </ul>
-                    <a href="contact.html#booking-form" class="btn gold-btn">Inquire Now</a>
+        <div class="pricing-grid">
+            <div class="pricing-card core-package">
+                <div class="card-tier-tag">Most Popular</div>
+                <h3>Event & Branding Focus</h3>
+                <div class="price-box">
+                    <span class="currency">KES</span>
+                    <span class="price-amount" data-standard="35,000" data-premium="65,000">35,000</span>
                 </div>
+                <ul class="package-features">
+                    <li><i class="fas fa-check"></i> <span class="feature-text">Up to 4 Hours Coverage</span></li>
+                    <li><i class="fas fa-check"></i> Unlimited High-Res Digital Shots</li>
+                    <li><i class="fas fa-check"></i> Professional Color Correction</li>
+                    <li><i class="fas fa-clock"></i> <span class="feature-delivery">5-Day Turnaround Delivery</span></li>
+                </ul>
+                <a href="contact.html" class="btn transparent-gold-btn">Book Package</a>
             </div>
-        </section>
+
+            <div class="pricing-card premium-highlight core-package">
+                <div class="card-tier-tag">Elite Tier</div>
+                <h3>Commercial & Wedding Gala</h3>
+                <div class="price-box">
+                    <span class="currency">KES</span>
+                     <span class="price-amount" data-standard="55,000 - 80,000" data-premium="120,000">55,000 - 80,000</span>
+                </div>
+                <ul class="package-features">
+                    <li><i class="fas fa-check"></i> <span class="feature-text">Full-Day Event Coverage</span></li>
+                    <li><i class="fas fa-check"></i> 2 Senior Photographers on Set</li>
+                    <li><i class="fas fa-check"></i> Premium Cinematic Highlight Video</li>
+                    <li><i class="fas fa-clock"></i> <span class="feature-delivery">7-Day Deluxe Box Delivery</span></li>
+                </ul>
+                <a href="contact.html" class="btn gold-btn">Book Package</a>
+            </div>
+
+            <div class="pricing-card standard-only">
+                <div class="card-tier-tag">Quick Session</div>
+                <h3>PHOTOSHOOT</h3>
+                <div class="price-box">
+                    <span class="currency">KES</span>
+                    <span class="price-amount" data-standard="15,000" data-premium="15,000">15,000</span>
+                </div>
+                <ul class="package-features">
+                    <li><i class="fas fa-check"></i> <span class="feature-text">1 Hour Session</span></li>
+                    <li><i class="fas fa-check"></i> Unlimited High-Res Digital Shots</li>
+                    <li><i class="fas fa-check"></i> Professional Color Correction</li>
+                    <li><i class="fas fa-clock"></i> <span class="feature-delivery">5-Day Turnaround Delivery</span></li>
+                </ul>
+                <a href="contact.html" class="btn transparent-gold-btn">Book Package</a>
+            </div>
+
+            <div class="pricing-card standard-only">
+                <div class="card-tier-tag">Commercial</div>
+                <h3>Commercial Advert Photography</h3>
+                <div class="price-box">
+                    <span class="currency">KES</span>
+                    <span class="price-amount" data-standard="65,000" data-premium="65,000">65,000</span>
+                </div>
+                <ul class="package-features">
+                    <li><i class="fas fa-check"></i> <span class="feature-text">1-2 Hour Photography Session</span></li>
+                    <li><i class="fas fa-check"></i> Professional Advert Photography</li>
+                    <li><i class="fas fa-check"></i> <span class="feature-text">Video Production: KES 100,000 / Day</span></li>
+                    <li><i class="fas fa-clock"></i> <span class="feature-delivery">5-Day Turnaround Delivery</span></li>
+                </ul>
+                <a href="contact.html" class="btn transparent-gold-btn">Book Package</a>
+            </div>
+        </div>
+    </div>
+</section>
+
     </main>
 
-    <footer>
-        <div class="footer-content">
-            <p class="copyright">&copy; 2026 Coast Photographic Services. All Rights Reserved.</p>
+    <footer class="site-footer">
+    <div class="footer-container">
+
+        <div class="footer-brand">
+            <h3>Coast Photographic Services</h3>
+
+            <p>
+                Professional photography & videography based at the Kenyan coast 
+                capturing raw, timeless emotion across premium events since 2017.
+            </p>
+
+            <div class="footer-socials">
+                <a href="https://facebook.com" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
+                <a href="https://twitter.com" target="_blank"><i class="fab fa-x-twitter"></i></a>
+                <a href="https://youtube.com" target="_blank"><i class="fab fa-youtube"></i></a>
+            </div>
         </div>
-    </footer>
+
+        <div class="footer-links">
+            <h4>Quick Links</h4>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="portfolio.html">Portfolio</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </div>
+
+        <div class="footer-contact">
+            <h4>Get In Touch</h4>
+
+            <ul>
+                <li><i class="fas fa-map-marker-alt"></i> Mombasa, Kenya</li>
+                <li><i class="fas fa-phone"></i> <a href="tel:+254 724 500 052">+254 756 500 052</a></li>
+                <li><i class="fas fa-envelope"></i> <a href="mailto:coast.photographic.cs69@gmail.com">coast.photographic.cs69@gmail.com</a></li>
+            </ul>
+        </div>
+
+    </div>
+
+    <div class="footer-bottom">
+        <p>&copy; 2026 Coast Photographic Services. All Rights Reserved.</p>
+        <p>Crafted with precision & passion.</p>
+    </div>
+</footer>
 
     <script src="js/script.js"></script>
 </body>

@@ -16,111 +16,250 @@
 <body>
 
     <header>
-        <nav class="navbar">
-            <div class="logo">Coast Photographic Services</div>
+        <nav class="navbar" id="navbar">
+    <div class="logo">Coast Photographic Services</div>
 
-            <ul class="nav-links">
-                <li><a href="index.html" class="active">Home</a></li>
-                <li><a href="about.html">About</a></li>
-                <li><a href="services.html">Services</a></li>
-                <li><a href="portfolio.html">Portfolio</a></li>
-                <li><a href="contact.html">Contact</a></li>
-            </ul>
+    <ul class="nav-links">
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="portfolio.html">Portfolio</a></li>
+        <li><a href="contact.html">Contact</a></li>
+    </ul>
 
-            <div class="menu-btn">
-                <i class="fas fa-bars"></i>
-            </div>
-        </nav>
+    <div class="menu-btn" aria-label="Toggle navigation" role="button">
+        <i class="fas fa-bars"></i>
+    </div>
+</nav>
     </header>
 
     <main>
-        <section class="hero hero-section">
-            <div class="hero-content">
-                <h1>Capturing Timeless Moments</h1>
-                <p>Luxury Photography Services for Weddings, Events, Portraits & Commercial Projects</p>
+       <section class="hero hero-section">
 
-                <div class="hero-buttons">
-                    <a href="contact.html#booking-form" class="btn gold-btn">Book Session</a>
-                    <a href="portfolio.html" class="btn outline-btn">View Portfolio</a>
+    <div class="hero-slideshow">
+        <div class="slide active" style="background-image: linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.75)), url('images/3J0A9592.JPG');"></div>
+        <div class="slide" style="background-image: linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.75)), url('images/conf1.jpg');"></div>
+        <div class="slide" style="background-image: linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.75)), url('images/3J0A0975.JPG');"></div>
+        <div class="slide" style="background-image: linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.75)), url('images/3J0A9477.JPG');"></div>
+    </div>
+
+    <div class="hero-content">
+
+        <p class="hero-eyebrow">Cinematic Visual Storytelling from the Kenyan Coast</p>
+
+        <h1 class="hero-headline">
+            Where Moments Become<br>
+            <span class="highlight">Timeless Art</span>
+        </h1>
+
+        <p class="hero-sub">
+            Wedding Photography • Videography  • Graduation & Year-End Events
+        </p>
+
+        <div class="hero-buttons">
+            <a href="contact.html#booking-form" class="btn gold-btn">Reserve a Session</a>
+            <a href="portfolio.html" class="btn outline-btn">Explore Our Work</a>
+        </div>
+
+    </div>
+</section>
+
+      <section class="services home-services-section">
+    <div class="services-container">
+
+        <div class="services-left-col">
+            <span class="section-label">What We Do</span>
+
+            <h2 class="section-title services-title">
+                Crafting Visual<br><em>Legacies</em>
+            </h2>
+
+            <p class="services-intro">
+                We blend creative precision with raw human emotion to deliver
+                striking cinematic visual storytelling that elevates personal
+                milestones and commercial productions.
+            </p>
+
+            <div class="accent-line"></div>
+        </div>
+
+        <div class="services-right-col">
+
+            <article class="service-card-modern">
+                <div class="card-icon">
+                    <i class="fas fa-camera"></i>
                 </div>
-            </div>
-        </section>
 
-        <section class="services home-services-section">
-            <h2 class="section-title">Our Services</h2>
-
-            <div class="service-container">
-                <div class="service-card">
-                    <i class="fas fa-camera" aria-hidden="true"></i>
+                <div class="card-content">
                     <h3>Wedding Photography</h3>
-                    <p>Elegant wedding photography that captures unforgettable memories.</p>
+                    <p>
+                        Elegant, unobtrusive coverage that turns your day's raw
+                        emotion into a visual heirloom across elite coastal shores.
+                    </p>
+
+                    <a href="portfolio.html#wedding" class="service-link">
+                        Explore <i class="fas fa-arrow-right"></i>
+                    </a>
+                </div>
+            </article>
+
+            <article class="service-card-modern">
+                <div class="card-icon">
+                    <i class="fas fa-video"></i>
                 </div>
 
-                <div class="service-card">
-                    <i class="fas fa-video" aria-hidden="true"></i>
+                <div class="card-content">
                     <h3>Videography</h3>
-                    <p>Professional cinematic videos for events and promotions.</p>
+                    <p>
+                        Cinematic storytelling for high-profile events, moving
+                        brand productions, and campaigns delivered in flawless 4K.
+                    </p>
+
+                    <a href="portfolio.html" class="service-link">
+                        Explore <i class="fas fa-arrow-right"></i>
+                    </a>
+                </div>
+            </article>
+
+            <article class="service-card-modern">
+                <div class="card-icon">
+                    <i class="fas fa-graduation-cap"></i>
                 </div>
 
-                <div class="service-card">
-                    <i class="fas fa-image" aria-hidden="true"></i>
-                    <h3>Graduation And Year End Events</h3>
-                    <p>Creative portrait sessions for individuals and families.</p>
+                <div class="card-content">
+                    <h3>Graduation & Year-End Events</h3>
+                    <p>
+                        Milestone photography that preserves academic achievement,
+                        organizational legacies, and celebratory energy in equal measure.
+                    </p>
+
+                    <a href="portfolio.html#graduation" class="service-link">
+                        Explore <i class="fas fa-arrow-right"></i>
+                    </a>
                 </div>
-            </div>
-        </section>
+            </article>
+
+        </div>
+
+    </div>
+</section>
 
         <section class="portfolio-preview">
             <h2 class="section-title">Featured Portfolio</h2>
 
             <div class="gallery">
-                <img src="images/photo1.jpg" alt="Wedding couples portrait session">
+                <img src="images/DSC_0088.JPG" alt="Wedding couples portrait session">
                 <img src="images/photo2.jpg" alt="Cinematic outdoor landscape shot">
                 <img src="images/photo3.jpg" alt="Studio professional fashion portrait">
                 <img src="images/photo4.jpg" alt="Corporate commercial event photography">
-                <img src="images/photo5.jpg" alt="Candid family photography session">
-                <img src="images/photo6.jpg" alt="Luxury destination event videography still">
+                <img src="images/3J0A0433.JPG" alt="Candid family photography session">
+                <img src="images/3J0A9477.JPG" alt="Luxury destination event videography still">
             </div>
         </section>
 
-        <section class="stats">
-            <div class="stat-box">
-                <h2>500+</h2>
-                <p>Projects Completed</p>
-            </div>
+        <div class="stat">
+    <span class="stat-number" data-value="500">0</span><span>+</span>
+    <p>Projects Completed</p>
+</div>
 
-            <div class="stat-box">
-                <h2>300+</h2>
-                <p>Happy Clients</p>
-            </div>
+<div class="stat">
+    <span class="stat-number" data-value="300">0</span><span>+</span>
+    <p>Happy Clients</p>
+</div>
 
-            <div class="stat-box">
-                <h2>8+</h2>
-                <p>Years Experience</p>
-            </div>
-        </section>
+<div class="stat">
+    <span class="stat-number" data-value="8">0</span><span>+</span>
+    <p>Years Experience</p>
+</div>
 
-        <section class="cta">
-            <h2>Let's Capture Your Story</h2>
-            <a href="contact.html" class="btn gold-btn">Contact Us</a>
-        </section>
+       <section class="testimonial-band">
+    <div class="container testimonial-inner">
+
+        <p class="section-label">What Our Clients Say</p>
+
+        <div class="testimonial-icon">
+            <i class="fas fa-quote-left"></i>
+        </div>
+
+        <blockquote class="testimonial-quote">
+            <p>
+                Coast Photographic captured our wedding day in a way we didn't think was possible, 
+                every frame felt like a painting. We'll treasure these photographs forever.
+            </p>
+
+            <cite>— Benard Githingi & Njeri. Mombasa</cite>
+        </blockquote>
+
+    </div>
+</section>
+
+        <section class="cta-section">
+    <div class="cta-inner">
+        <p class="section-label">Ready to begin?</p>
+
+        <h2>
+            Let's Capture <em>Your</em> Story
+        </h2>
+
+        <p class="cta-sub">
+            Every moment deserves to be remembered. Reach out and let's talk
+            about your vision.
+        </p>
+
+        <a href="contact.html" class="btn gold-btn">
+            Get In Touch
+        </a>
+    </div>
+</section>
     </main>
 
-    <footer>
-        <div class="footer-content">
+  <footer class="site-footer">
+    <div class="footer-container">
+
+        <div class="footer-brand">
             <h3>Coast Photographic Services</h3>
-            <p>Professional Photography & Videography Services based at the coast, capturing raw and timeless emotions across premium events.</p>
 
-            <div class="socials">
-                <a href="https://facebook.com" target="_blank" rel="noopener" aria-label="Facebook"><i class="fab fa-facebook"></i></a>
-                <a href="https://instagram.com" target="_blank" rel="noopener" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
-                <a href="https://twitter.com" target="_blank" rel="noopener" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
-                <a href="https://youtube.com" target="_blank" rel="noopener" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
+            <p>
+                Professional Photographers & videographers based at the Kenyan coast 
+                capturing raw, timeless emotion across premium events since 2009.
+            </p>
+
+            <div class="footer-socials">
+                <a href="https://facebook.com" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
+                <a href="https://twitter.com" target="_blank"><i class="fab fa-x-twitter"></i></a>
+                <a href="https://youtube.com" target="_blank"><i class="fab fa-youtube"></i></a>
             </div>
-
-            <p class="copyright">&copy; 2026 Coast Photographic Services. All Rights Reserved.</p>
         </div>
-    </footer>
+
+        <div class="footer-links">
+            <h4>Quick Links</h4>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="portfolio.html">Portfolio</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </div>
+
+        <div class="footer-contact">
+            <h4>Get In Touch</h4>
+
+            <ul>
+                <li><i class="fas fa-map-marker-alt"></i> Mombasa, Kenya</li>
+                <li><i class="fas fa-phone"></i> <a href="tel:+254 724 500 052">+254 756 500 052 / 0724 500 052  </a></li>
+                <li><i class="fas fa-envelope"></i> <a href="mailto:coastphotographiccs69@gmail.com">coastphotographics69@gmail.com</a></li>
+            </ul>
+        </div>
+
+    </div>
+
+    <div class="footer-bottom">
+        <p>&copy; 2026 Coast Photographic Services. All Rights Reserved.</p>
+        <p>Crafted with precision & passion.</p>
+    </div>
+</footer>
 
     <script src="js/script.js"></script>
 </body>

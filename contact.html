@@ -15,8 +15,8 @@
 </head>
 <body>
 
-    <header>
-        <nav class="navbar">
+   <header>
+        <nav class="navbar" id="navbar">
             <div class="logo">Coast Photographic Services</div>
 
             <ul class="nav-links">
@@ -27,7 +27,7 @@
                 <li><a href="contact.html" class="active">Contact</a></li>
             </ul>
 
-            <div class="menu-btn">
+            <div class="menu-btn" aria-label="Toggle navigation" role="button">
                 <i class="fas fa-bars"></i>
             </div>
         </nav>
@@ -85,57 +85,96 @@
                     <p>Fill out the fields below to book a shoot date or request a quotation.</p>
                 </div>
 
-                <form class="booking-form unified-form" action="contact.php" method="POST">
-                    <div class="form-row">
-                        <input type="text" name="name" placeholder="Your Full Name / Company Name" required>
-                    </div>
+                <form class="booking-form unified-form" id="studio-booking-form" novalidate>
+    <div class="form-row">
+        <input type="text" name="name" id="form-name" placeholder="Your Full Name / Company Name" required>
+    </div>
 
-                    <div class="form-group-split">
-                        <input type="email" name="email" placeholder="Email Address" required>
-                        <input type="tel" name="phone" placeholder="Phone Number" required>
-                    </div>
+    <div class="form-group-split">
+        <input type="email" name="email" id="form-email" placeholder="Email Address" required>
+        <input type="tel" name="phone" id="form-phone" placeholder="Phone Number" required>
+    </div>
 
-                    <div class="form-group-split">
-                        <select name="service-type" required>
-                            <option value="" disabled selected>Select Service Required</option>
-                            <option value="corporate-conference">Corporate Conferences & Events</option>
-                            <option value="graduation-gala">Graduation & End-Year Events</option>
-                            <option value="commercial-pack">Commercial & Product Pack Shoots</option>
-                            <option value="personal-function">Personal Functions & Weddings</option>
-                            <option value="general-inquiry">General Inquiry / Consultation</option>
-                        </select>
+    <div class="form-group-split">
+        <select name="service-type" id="form-service" required>
+            <option value="" disabled selected>Select Service Required</option>
+            <option value="corporate-conference">Corporate Conferences & Events</option>
+            <option value="graduation-gala">Graduation & End-Year Events</option>
+            <option value="commercial-pack">Commercial & Product Pack Shoots</option>
+            <option value="personal-function">Personal Functions & Weddings</option>
+            <option value="general-inquiry">General Inquiry / Consultation</option>
+        </select>
 
-                        <input type="date" name="event-date" title="Proposed Event Date">
-                    </div>
+        <input type="date" name="event-date" id="form-date" title="Proposed Event Date">
+    </div>
 
-                    <div class="form-row">
-                        <textarea name="message" rows="6" placeholder="Tell us more about your timeline, location, branding needs, or general specifications..." required></textarea>
-                    </div>
+    <div class="form-row">
+        <textarea name="message" id="form-message" rows="6" placeholder="Tell us more about your timeline, location, branding needs, or general specifications..." required></textarea>
+    </div>
 
-                    <div class="form-row" style="margin-top: 10px;">
-                        <button type="submit" class="btn gold-btn" style="width: 100%; text-align: center; cursor: pointer;">Send Message / Request Booking</button>
-                    </div>
-                </form>
-            </div>
+    <div class="form-row" style="margin-top: 10px;">
+        <button type="submit" class="btn gold-btn" id="form-submit-btn" style="width: 100%; text-align: center; cursor: pointer;">
+            <span class="btn-text">Send Message / Request Booking</span>
+        </button>
+    </div>
+</form>
+
+<div id="toast-notification" class="toast-card" aria-live="assertive">
+    <i class="toast-icon fas"></i>
+    <span id="toast-message"></span>
+</div>
 
         </section>
     </main>
 
-    <footer>
-        <div class="footer-content">
+    <footer class="site-footer">
+    <div class="footer-container">
+
+        <div class="footer-brand">
             <h3>Coast Photographic Services</h3>
-            <p>Professional Photography & Videography Services based at the coast, capturing raw and timeless emotions across premium events.</p>
 
-            <div class="socials">
-                <a href="https://facebook.com" target="_blank" rel="noopener" aria-label="Facebook"><i class="fab fa-facebook"></i></a>
-                <a href="https://instagram.com" target="_blank" rel="noopener" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
-                <a href="https://twitter.com" target="_blank" rel="noopener" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
-                <a href="https://youtube.com" target="_blank" rel="noopener" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
+            <p>
+                Professional photography & videography based at the Kenyan coast 
+                capturing raw, timeless emotion across premium events since 2017.
+            </p>
+
+            <div class="footer-socials">
+                <a href="https://facebook.com" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
+                <a href="https://twitter.com" target="_blank"><i class="fab fa-x-twitter"></i></a>
+                <a href="https://youtube.com" target="_blank"><i class="fab fa-youtube"></i></a>
             </div>
-
-            <p class="copyright">&copy; 2026 Coast Photographic Services. All Rights Reserved.</p>
         </div>
-    </footer>
+
+        <div class="footer-links">
+            <h4>Quick Links</h4>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="portfolio.html">Portfolio</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </div>
+
+        <div class="footer-contact">
+            <h4>Get In Touch</h4>
+
+            <ul>
+                <li><i class="fas fa-map-marker-alt"></i> Mombasa, Kenya</li>
+                <li><i class="fas fa-phone"></i> <a href="tel:+254 724 500 052">+254 756 500 052</a></li>
+                <li><i class="fas fa-envelope"></i> <a href="mailto:coast.photographic.cs69@gmail.com">coast.photographic.cs69@gmail.com</a></li>
+            </ul>
+        </div>
+
+    </div>
+
+    <div class="footer-bottom">
+        <p>&copy; 2026 Coast Photographic Services. All Rights Reserved.</p>
+        <p>Crafted with precision & passion.</p>
+    </div>
+</footer>
+
 
     <script src="js/script.js"></script>
 </body>
