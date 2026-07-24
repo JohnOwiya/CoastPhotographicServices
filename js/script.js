@@ -1,11 +1,26 @@
 'use strict';
 
 /* ============================================================
-   NAVBAR & MOBILE SIDEBAR MECHANICS
+   NAVBAR & MOBILE DROPDOWN MENU MECHANICS
 ============================================================ */
 const navbar = document.getElementById('navbar');
 const menuBtn = document.querySelector('.menu-btn');
 const navLinks = document.querySelector('.nav-links');
+
+// Create the dimmed backdrop element once, so no HTML files need editing
+const navBackdrop = document.createElement('div');
+navBackdrop.className = 'nav-backdrop';
+document.body.appendChild(navBackdrop);
+
+// Keep --navbar-height in sync with the real rendered navbar,
+// since the logo can wrap to two lines on narrow screens
+function syncNavbarHeight() {
+    if (!navbar) return;
+    document.documentElement.style.setProperty('--navbar-height', navbar.offsetHeight + 'px');
+}
+syncNavbarHeight();
+window.addEventListener('resize', syncNavbarHeight);
+window.addEventListener('load', syncNavbarHeight);
 
 // Sticky navbar effect on scroll
 window.addEventListener('scroll', () => {
@@ -16,6 +31,7 @@ window.addEventListener('scroll', () => {
 // Function to close the responsive menu
 function closeMenu() {
     navLinks?.classList.remove('active');
+    navBackdrop.classList.remove('active');
     menuBtn?.classList.remove('open');
     menuBtn?.setAttribute('aria-expanded', 'false');
     const icon = menuBtn?.querySelector('i');
@@ -26,9 +42,11 @@ function closeMenu() {
     document.body.style.overflow = '';
 }
 
-// Toggle sidebar open/close state
+// Toggle dropdown open/close state
 menuBtn?.addEventListener('click', () => {
+    syncNavbarHeight();
     const isOpen = navLinks.classList.toggle('active');
+    navBackdrop.classList.toggle('active', isOpen);
     menuBtn.classList.toggle('open', isOpen);
     menuBtn.setAttribute('aria-expanded', isOpen);
     document.body.style.overflow = isOpen ? 'hidden' : '';
@@ -41,7 +59,15 @@ menuBtn?.addEventListener('click', () => {
     }
 });
 
-// Close mobile sidebar smoothly on navigation link click
+// Close the dropdown when tapping the dimmed backdrop
+navBackdrop.addEventListener('click', closeMenu);
+
+// Close the dropdown on Escape
+document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && navLinks?.classList.contains('active')) closeMenu();
+});
+
+// Close mobile dropdown smoothly on navigation link click
 if (navLinks) {
     navLinks.querySelectorAll('a').forEach(link => {
         link.addEventListener('click', closeMenu);
@@ -322,6 +348,25 @@ document.addEventListener("DOMContentLoaded", function() {
             updateLightboxSource();
         }
     });
+
+    // Swipe left/right to navigate the lightbox on touch devices
+    let touchStartX = 0;
+    lightbox?.addEventListener('touchstart', (e) => {
+        touchStartX = e.changedTouches[0].screenX;
+    }, { passive: true });
+
+    lightbox?.addEventListener('touchend', (e) => {
+        const touchEndX = e.changedTouches[0].screenX;
+        const delta = touchEndX - touchStartX;
+        if (Math.abs(delta) < 40 || !activeElements.length) return;
+
+        if (delta < 0) {
+            currentIndex = (currentIndex + 1) % activeElements.length;
+        } else {
+            currentIndex = (currentIndex - 1 + activeElements.length) % activeElements.length;
+        }
+        updateLightboxSource();
+    }, { passive: true });
 });
 
 /* ============================================================
